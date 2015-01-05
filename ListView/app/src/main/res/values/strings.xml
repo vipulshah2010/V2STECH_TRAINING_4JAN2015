@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="countries">
+        <item>India</item>
+        <item>USA</item>
+        <item>England</item>
+        <item>Australia</item>
+        <item>London</item>
+    </string-array>
+
+</resources>
